@@ -1,0 +1,1 @@
+package entity.order;public enum OrderStatus {    WAIT_PAYMENT("待支付"),    PAID("已支付"),    WAIT_REFUND("待退款"),    REFUNDED("已退款");    private String value;    OrderStatus(String value) {        this.value = value;    }}

@@ -1,0 +1,1 @@
+package entity.seat;public enum SeatStatus {    FREE("空闲"),    // 可被选    LOCKED("锁定"),  // 已选但未付款    SOLD("已售出");  // 已付款    private final String statusName;    SeatStatus(String statusName) { this.statusName=statusName; }}

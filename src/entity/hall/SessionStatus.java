@@ -1,0 +1,1 @@
+package entity.hall;public enum SessionStatus {    NOT_STARTED("未开始"),  // 播放时间未到，可购票    ON_GOING("播放中"),     // 已开始播放，仍可购剩余座位    ENDED("已结束");        // 播放结束，不可购票    private final String status;    SessionStatus(String status) {        this.status = status;    }}
