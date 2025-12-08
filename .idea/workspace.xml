@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="" />
+    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="123">
+      <change afterPath="$PROJECT_DIR$/src/factory/seatfactory/Moviefactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CinemaInteractiveApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CinemaInteractiveApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/characters/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/characters/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/movie/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/movie/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/session/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/session/Session.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system/CinemaSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/CinemaSystem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +27,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -26,22 +56,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CinemaInteractiveApplication.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Mycode/java/CinemaTicketPurchasingSystem/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CinemaInteractiveApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Mycode/java/CinemaTicketPurchasingSystem/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,12 +91,38 @@
       <option name="presentableId" value="Default" />
       <updated>1764841858053</updated>
       <workItem from="1764841859418" duration="11349000" />
-      <workItem from="1764899338731" duration="10252000" />
+      <workItem from="1764899338731" duration="10622000" />
+      <workItem from="1764937479694" duration="206000" />
+      <workItem from="1764943206645" duration="2779000" />
+      <workItem from="1764986694820" duration="722000" />
+      <workItem from="1764987430570" duration="8359000" />
+      <workItem from="1765180717087" duration="5552000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
