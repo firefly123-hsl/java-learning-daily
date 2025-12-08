@@ -1,1 +1,1 @@
-package entity.seat;public enum SeatType {    REGULAR("普通座"),    VIP("贵宾座"),    COUPLE("情侣座");    private final String seatName;    SeatType (String seatName) {        this.seatName = seatName;    }}
+package entity.seat;public enum SeatType {    REGULAR("普通座"),    VIP("贵宾座"),    COUPLE("情侣座");    private final String seatName;    SeatType (String seatName) {        this.seatName = seatName;    }    public String getSeatName() {        return seatName;    }}
