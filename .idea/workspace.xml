@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="">
+    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="123">
+      <change afterPath="$PROJECT_DIR$/src/factory/seatfactory/Moviefactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CinemaInteractiveApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CinemaInteractiveApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/characters/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/characters/user/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/movie/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/movie/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/seat/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/seat/Seat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/seat/SeatType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/seat/SeatType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/session/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/session/Session.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system/CinemaSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/CinemaSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -39,9 +61,9 @@
     &quot;Application.CinemaInteractiveApplication.executor&quot;: &quot;Debug&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -49,15 +71,15 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Mycode/java/CinemaTicketPurchasingSystem/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
-        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
       </set>
     </attachedChunks>
   </component>
@@ -69,20 +91,38 @@
       <option name="presentableId" value="Default" />
       <updated>1764841858053</updated>
       <workItem from="1764841859418" duration="11349000" />
-      <workItem from="1764899338731" duration="10252000" />
-      <workItem from="1765020252133" duration="4984000" />
-      <workItem from="1765095667631" duration="3421000" />
-      <workItem from="1765182856680" duration="116000" />
-      <workItem from="1765182987789" duration="2904000" />
-      <workItem from="1765185918981" duration="7000" />
-      <workItem from="1765185941480" duration="8000" />
-      <workItem from="1765185981631" duration="144000" />
-      <workItem from="1765186134146" duration="11000" />
+      <workItem from="1764899338731" duration="10622000" />
+      <workItem from="1764937479694" duration="206000" />
+      <workItem from="1764943206645" duration="2779000" />
+      <workItem from="1764986694820" duration="722000" />
+      <workItem from="1764987430570" duration="8359000" />
+      <workItem from="1765180717087" duration="5552000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
