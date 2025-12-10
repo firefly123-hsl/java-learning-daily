@@ -1,0 +1,77 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"471eda74-b7d2-45f4-9867-96425abe5595\" name=\"Changes\" comment=\"考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系\">\r\n      <change beforePath=\"$PROJECT_DIR$/src/CinemaInteractiveApplication.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/CinemaInteractiveApplication.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Enum\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <excluded-from-favorite>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/master\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </excluded-from-favorite>\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"lyq &lt;2125565900@qq.com&gt;\" />\r\n        <option value=\"outcast &lt;294140918@qq.com&gt;\" />\r\n        <option value=\"ShengLin Hu &lt;3101651940@qq.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"DEPENDENCY_CHECKER_PROBLEMS_TAB\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"36NL03eoLy2gKttBWmaE8elRifV\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.CinemaInteractiveApplication.executor&quot;: &quot;Debug&quot;,\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Mycode/java/CinemaTicketPurchasingSystem/src/Main.java&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"471eda74-b7d2-45f4-9867-96425abe5595\" name=\"Changes\" comment=\"\" />\r\n      <created>1764841858053</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1764841858053</updated>\r\n      <workItem from=\"1764841859418\" duration=\"11349000\" />\r\n      <workItem from=\"1764899338731\" duration=\"10622000\" />\r\n      <workItem from=\"1764937479694\" duration=\"206000\" />\r\n      <workItem from=\"1764943206645\" duration=\"2779000\" />\r\n      <workItem from=\"1764986694820\" duration=\"722000\" />\r\n      <workItem from=\"1764987430570\" duration=\"8359000\" />\r\n      <workItem from=\"1765180717087\" duration=\"5552000\" />\r\n      <workItem from=\"1765289873338\" duration=\"135000\" />\r\n      <workItem from=\"1765349129992\" duration=\"14000\" />\r\n      <workItem from=\"1765349761008\" duration=\"1964000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"add .gitignore\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1765289553748</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1765289553748</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"改用了OrderBuilder建造者模式来创建Order&#10;写完了两个类&#10;需要与Session CinemaSystem User Seat实现交互&#10;&#10;(cherry picked from commit 6d25f36cdae1959e64289f4b318276b7c65665db)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1765289600125</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1765289600125</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Changes&#10;&#10;(cherry picked from commit b79e15e3317e57908b6e60588de752ed0af59672)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1765373821550</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1765373821550</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"00\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1765374161265</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1765374161265</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1765379460765</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1765379460765</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"123\" />\r\n    <MESSAGE value=\"add .gitignore\" />\r\n    <MESSAGE value=\"改用了OrderBuilder建造者模式来创建Order&#10;写完了两个类&#10;需要与Session CinemaSystem User Seat实现交互&#10;&#10;(cherry picked from commit 6d25f36cdae1959e64289f4b318276b7c65665db)\" />\r\n    <MESSAGE value=\"第一次提交&#10;&#10;(cherry picked from commit 4d31353cab7797a872d39450be75f8343b84cd61)\" />\r\n    <MESSAGE value=\"Changes&#10;&#10;(cherry picked from commit b79e15e3317e57908b6e60588de752ed0af59672)\" />\r\n    <MESSAGE value=\"00\" />\r\n    <MESSAGE value=\"考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 56ed0fb7a82d709e30af2784a4baf444764cae3a)
++++ b/.idea/workspace.xml	(date 1765380159954)
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系">
+-      <change beforePath="$PROJECT_DIR$/src/CinemaInteractiveApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CinemaInteractiveApplication.java" afterDir="false" />
+-    </list>
++    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -40,6 +38,13 @@
+         <option value="outcast &lt;294140918@qq.com&gt;" />
+         <option value="ShengLin Hu &lt;3101651940@qq.com&gt;" />
+       </list>
++    </option>
++    <option name="PUSH_AUTO_UPDATE" value="true" />
++    <option name="PUSH_TAGS">
++      <GitPushTagMode>
++        <option name="argument" value="--follow-tags" />
++        <option name="title" value="Current Branch" />
++      </GitPushTagMode>
+     </option>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+@@ -104,6 +109,7 @@
+       <workItem from="1765289873338" duration="135000" />
+       <workItem from="1765349129992" duration="14000" />
+       <workItem from="1765349761008" duration="1964000" />
++      <workItem from="1765379581344" duration="576000" />
+     </task>
+     <task id="LOCAL-00001" summary="add .gitignore">
+       <option name="closed" value="true" />
+@@ -145,7 +151,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1765379460765</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系">
++      <option name="closed" value="true" />
++      <created>1765379821282</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1765379821282</updated>
++    </task>
++    <task id="LOCAL-00007" summary="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系">
++      <option name="closed" value="true" />
++      <created>1765379967209</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1765379967209</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -167,7 +189,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="origin/master" />
++                        <option value="master" />
+                       </list>
+                     </value>
+                   </entry>
