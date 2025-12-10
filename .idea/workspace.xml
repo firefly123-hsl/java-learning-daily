@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="第一次提交&#10;&#10;(cherry picked from commit 4d31353cab7797a872d39450be75f8343b84cd61)">
-      <changelist_data name="outcast" email="294140918@qq.com" date="1765293006000" automatic="true" />
-      <change afterPath="$PROJECT_DIR$/main/java/com/example/cinema/CinemaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/java/com/example/cinema/config/DataInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/java/com/example/cinema/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/java/com/example/cinema/model/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/java/com/example/cinema/repository/MovieRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/java/com/example/cinema/service/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="Changes&#10;&#10;(cherry picked from commit b79e15e3317e57908b6e60588de752ed0af59672)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +34,7 @@
     </excluded-from-favorite>
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="lyq &lt;2125565900@qq.com&gt;" />
         <option value="outcast &lt;294140918@qq.com&gt;" />
         <option value="ShengLin Hu &lt;3101651940@qq.com&gt;" />
       </list>
@@ -66,26 +57,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CinemaInteractiveApplication.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Mycode/java/CinemaTicketPurchasingSystem/src/Main.java",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CinemaInteractiveApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Mycode/java/CinemaTicketPurchasingSystem/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -128,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765289600125</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changes&#10;&#10;(cherry picked from commit b79e15e3317e57908b6e60588de752ed0af59672)">
+      <option name="closed" value="true" />
+      <created>1765373821550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765373821550</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +166,8 @@
     <MESSAGE value="add .gitignore" />
     <MESSAGE value="改用了OrderBuilder建造者模式来创建Order&#10;写完了两个类&#10;需要与Session CinemaSystem User Seat实现交互&#10;&#10;(cherry picked from commit 6d25f36cdae1959e64289f4b318276b7c65665db)" />
     <MESSAGE value="第一次提交&#10;&#10;(cherry picked from commit 4d31353cab7797a872d39450be75f8343b84cd61)" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交&#10;&#10;(cherry picked from commit 4d31353cab7797a872d39450be75f8343b84cd61)" />
+    <MESSAGE value="Changes&#10;&#10;(cherry picked from commit b79e15e3317e57908b6e60588de752ed0af59672)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes&#10;&#10;(cherry picked from commit b79e15e3317e57908b6e60588de752ed0af59672)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
