@@ -1,1 +1,0 @@
-package factory.seatfactory;public class Moviefactory {}
