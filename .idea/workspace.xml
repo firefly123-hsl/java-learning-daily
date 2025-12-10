@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="00">
-      <change afterPath="$PROJECT_DIR$/src/strategy/PriceCalculateStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/PriceStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/hall/Hall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/hall/Hall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/hall/SessionStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/seat/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/seat/Seat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/seat/SeatStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/seat/SeatType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/seat/SeatType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/session/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/session/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/seatfactory/Moviefactory.java" beforeDir="false" />
+    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系">
+      <change beforePath="$PROJECT_DIR$/src/CinemaInteractiveApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CinemaInteractiveApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765374161265</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系">
+      <option name="closed" value="true" />
+      <created>1765379460765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765379460765</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +186,8 @@
     <MESSAGE value="第一次提交&#10;&#10;(cherry picked from commit 4d31353cab7797a872d39450be75f8343b84cd61)" />
     <MESSAGE value="Changes&#10;&#10;(cherry picked from commit b79e15e3317e57908b6e60588de752ed0af59672)" />
     <MESSAGE value="00" />
-    <option name="LAST_COMMIT_MESSAGE" value="00" />
+    <MESSAGE value="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系" />
+    <option name="LAST_COMMIT_MESSAGE" value="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
