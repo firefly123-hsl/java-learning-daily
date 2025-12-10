@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系">
-      <change afterPath="$PROJECT_DIR$/src/entity/seat/PriceStrategyScene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/seat/SeatStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/hall/Hall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/hall/Hall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/seat/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/seat/Seat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/seat/SeatType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/seat/SeatType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/session/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/session/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/system/CinemaSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/CinemaSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +104,7 @@
       <workItem from="1765289873338" duration="135000" />
       <workItem from="1765349129992" duration="14000" />
       <workItem from="1765349761008" duration="1964000" />
-      <workItem from="1765381274256" duration="3416000" />
+      <workItem from="1765381274256" duration="4264000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <option name="closed" value="true" />
@@ -161,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765380444806</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系">
+      <option name="closed" value="true" />
+      <created>1765384818002</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765384818002</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
