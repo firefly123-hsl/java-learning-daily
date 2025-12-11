@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/characters/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/characters/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/hall/Hall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/hall/Hall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/movie/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/movie/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/seat/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/seat/Seat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/session/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/session/Session.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system/CinemaSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/CinemaSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
