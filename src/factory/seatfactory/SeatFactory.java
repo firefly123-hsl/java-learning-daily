@@ -1,1 +1,0 @@
-package factory.seatfactory;import entity.seat.Seat;public class SeatFactory {    public Seat createSeat() {    }}

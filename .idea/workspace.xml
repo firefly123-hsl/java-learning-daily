@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="影厅类新增场次加入逻辑">
+    <list default="true" id="471eda74-b7d2-45f4-9867-96425abe5595" name="Changes" comment="orderbuider改为内部类">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CinemaInteractiveApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/hall/Hall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/hall/Hall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/order/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/order/OrderBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/PriceCalculateStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/PriceCalculateStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/PriceStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/PriceStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/order/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/order/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory/seatfactory/SeatFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system/CinemaSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/system/CinemaSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +119,7 @@
       <workItem from="1765349761008" duration="1964000" />
       <workItem from="1765381274256" duration="4264000" />
       <workItem from="1765507051131" duration="2901000" />
-      <workItem from="1765528232910" duration="358000" />
+      <workItem from="1765528232910" duration="9410000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <option name="closed" value="true" />
@@ -183,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765455828383</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="orderbuider改为内部类">
+      <option name="closed" value="true" />
+      <created>1765528900093</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765528900093</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +236,8 @@
     <MESSAGE value="00" />
     <MESSAGE value="考虑到同一座位在不同场次有不同状态&#10;重新设计了Seat,Session,Hall的关系" />
     <MESSAGE value="影厅类新增场次加入逻辑" />
-    <option name="LAST_COMMIT_MESSAGE" value="影厅类新增场次加入逻辑" />
+    <MESSAGE value="orderbuider改为内部类" />
+    <option name="LAST_COMMIT_MESSAGE" value="orderbuider改为内部类" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
