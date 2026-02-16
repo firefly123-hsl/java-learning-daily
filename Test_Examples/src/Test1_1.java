@@ -17,7 +17,7 @@ public class Test1_1 {
         int target = scanner.nextInt();
 
         // 调用解法
-        Solution solution = new Solution();
+        Solution1 solution = new Solution1();
         int[] result = solution.twoSum(nums, target);
 
         // 输出结果
@@ -33,7 +33,7 @@ public class Test1_1 {
     }
 }
 
-class Solution {
+class Solution1 {
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
         for (int i = 0; i < n; i++) {
