@@ -1,1 +1,0 @@
-package entity.seat;/** * 座位类型枚举（普通/VIP/情侣） */public enum SeatType {    NORMAL("普通座"),    VIP("VIP座"),    COUPLE("情侣座");    private final String desc;    SeatType(String desc) { this.desc = desc; }    public String getDesc() { return desc; }}

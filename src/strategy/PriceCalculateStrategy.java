@@ -1,1 +1,0 @@
-package strategy;/** * 票价计算策略接口（策略模式核心） */public interface PriceCalculateStrategy {    /**     * 计算最终票价     * @param basePrice 座位类型基础价（影厅定义）     * @param showtimeCoefficient 场次调价系数（场次定义）     * @return 最终票价     */    double calculate(double basePrice, double showtimeCoefficient);}
